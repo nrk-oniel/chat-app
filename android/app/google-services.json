@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836003475389",
+    "project_id": "flash-chat-135b6",
+    "storage_bucket": "flash-chat-135b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836003475389:android:df4f605780c884b2562cd4",
+        "android_client_info": {
+          "package_name": "co.syrupsandwick.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836003475389-7pmono6k4qs4qobir95h95f8g4sgog00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-tUCVXgTM0AmjADhiWBMJxM639qIWRr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836003475389-7pmono6k4qs4qobir95h95f8g4sgog00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
